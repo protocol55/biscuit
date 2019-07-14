@@ -1,0 +1,2 @@
+{:deps {hiccup {:mvn/version "2.0.0-alpha1"}
+        camel-snake-kebab {:mvn/version "0.4.0"}}}
