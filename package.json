@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "document-register-element": "^1.13.2",
-    "incremental-dom": "^0.6.0"
+    "incremental-dom": "^0.7.0"
   }
 }
